@@ -9,6 +9,12 @@ Requirements
 This role only run on elao symfony standard vagrant box. See https://vagrantcloud.com/elao/symfony-standard-debian
 
 
+Role Handlers
+-------------
+
+    ntp restart  # Restart ntp service
+
+
 Example Playbook
 ----------------
 
